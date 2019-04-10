@@ -1,0 +1,13 @@
+---\ PRZECZYTAJ MNIE /---
+Przede wszystkim:
+1) By uruchomic aplikacje wybierz plik main.exe (application).
+2) Wszystkie znajdujace sie w tym folderze pliki sa niezbedne dla dzialania aplikacji.
+3) W folderze zalaczony jest przykladowy plik (Hamlet), by sprawdzic dzialanie programu.
+
+Dodatkowo:
+4) Aplikacja jest zbudowana z mysla o jezyku Angielskim - inne jezyki wymagaja usprawnien w kodzie.
+5) Aby sprawnie liczyc slowa w innych jezykach zmien plik [wordsToAvoid.txt] ze zbiorem slow z wybranego jezyka ktore chcesz ominac.
+5) Aplikacja nie wymaga posiadania bibliotek Pythona - jest przystosowana pod Windows's (testowana tylko na Win10)
+
+Stworzone przez
+Krzysztof Szumko (09 - Kwiecien - 2019)
